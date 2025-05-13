@@ -1,0 +1,71 @@
+body{
+    background-color: rgb(225, 245, 223);
+}
+
+h1{
+    color: rgb(50, 119, 33);
+    text-align: center;
+    font-size: 40px;
+}
+
+p{
+    font-size: 20px;
+    text-align: justify;
+}
+
+ul li{
+    margin-bottom: 10px;
+}
+
+.hobbie{
+    border-radius: 30px;
+    height: auto;
+    width: 500px;
+}
+
+table{
+    margin: 20px;
+    background-color: rgb(244, 255, 179);
+    background-blend-mode: color-burn;
+}
+
+.flag{
+    border-radius: 10px;
+    height: auto;
+    width: 100px;
+}
+
+.flagdinamarca{
+    width: 100px;
+    height: 60px;
+    border-radius: 10px;
+}
+
+a{
+    color: #1a73e8;
+    text-decoration: none;
+}
+
+a:hover{
+    color: #d44545;
+}
+
+button {
+    padding: 10px 20px;
+    font-size: 16px;
+    background-color: #358f39;
+    color: white;
+    border: none;
+    cursor: pointer;
+    border-radius: 5px;
+}
+
+button:hover {
+  background-color: rgb(56, 122, 59);
+}
+
+#mensagem {
+  margin-top: 20px;
+  font-size: 18px;
+  color: #333;
+}
